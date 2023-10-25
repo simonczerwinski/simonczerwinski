@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my GitHub profile, I'm Simon Czerwinski. 
-This is my Website  ( Under development with the latest React js. ) where I manage the content from my own CMS built with Next js. In my website I showcase my journey as a frontend developer with full stack experience. I'm passionate about creating engaging and user-friendly web experiences. This README provides a brief overview of what you'll find here.
+This is my Website  ( Under development with the latest React js. ) where I manage the content from my own CMS. In my website I showcase my journey as a frontend developer with full stack experience. I'm passionate about creating engaging and user-friendly web experiences. This README provides a brief overview of what you'll find here.
 
 ## About Me
 

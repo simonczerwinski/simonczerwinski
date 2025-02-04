@@ -16,7 +16,7 @@ Here's what you can explore:
 ### Projects
 - [XState Robot Machine](https://github.com/simonczerwinski/xstate-robot-project)
 - [Siide Music Website](link-to-project) - My upcoming project for my music with music player and AI. You can visit a small landing page from my distributor here: [Siide Music](https://hyperfollow.com/siide) ❤️
-- (Content Management System) built with Nextjs 13. - Under development. 
+- (Content Management System) built with Nextjs and .NET - Under development. 
 
 ## Get in Touch 📫
 
